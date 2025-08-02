@@ -2,6 +2,7 @@
 
 ## 🟡 Pac-Man versión Simpsons
 
+
 Un homenaje al clásico Pac-Man, pero con un toque especial: está inspirado en el universo de *Los Simpson*. Cada fantasma tiene el comportamiento de la versión original (sí, con su propio estilo de persecución). Solo tienes una vida, así que no hay margen para errores. Todo está hecho en C#.
 
 yt video: https://youtube.com/shorts/lm8HUDkrr4k?feature=share
