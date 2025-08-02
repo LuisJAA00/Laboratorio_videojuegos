@@ -6,7 +6,7 @@ Un homenaje al clásico Pac-Man, pero con un toque especial: está inspirado en 
 
 yt video: https://youtube.com/shorts/lm8HUDkrr4k?feature=share
 
-![Pac-Man versión Simpsons](ruta/de/la/imagen.png)
+![Pac-Man versión Simpsons](imagenes/pacman.jpeg)
 
 
 ## 🚢 Batalla Naval (Barcos)
