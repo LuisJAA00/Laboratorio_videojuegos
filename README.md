@@ -14,7 +14,7 @@ yt video: https://youtube.com/shorts/lm8HUDkrr4k?feature=share
 Dos barcos en una batalla uno contra uno. El objetivo es acertarle más veces al otro barco mientras el mar sube y baja (sí, la marea cambia). Además, el cañón se mueve, así que apuntar no es tan fácil como parece. ¡Buen timing y puntería son clave!
 
 yt video: https://youtu.be/RHu-QiyxGAs
-
+![Pac-Man versión Simpsons](imagenes/barcos.jpeg)
 
 
 
@@ -22,4 +22,5 @@ yt video: https://youtu.be/RHu-QiyxGAs
 
 Inspirado en *Smash Bros*, este es un juego multijugador en el que hasta 3 personas pueden controlar buzos que luchan entre sí. El objetivo: derribar a los otros y capturar la mayor cantidad de banderas. Caos, acción rápida y mucha competencia bajo el agua.
 
+![Pac-Man versión Simpsons](imagenes/buzos.jpeg)
 
