@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Scroll.exe" version="1.0.0.0" publicKeyToken="db40e8b766cddb4d" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Scroll" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Scroll.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Scroll.exe" size="535512">
+      <assemblyIdentity name="Scroll" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>MUh7HHneVvZ4+eMzQ/7CaISvx8ejw7xY6nyVn+86ZVA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Scroll.exe.config" size="161">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1hvekB5xicyX1FodTEqjnUxN4raEGXc+x3QzhQbWWa0=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ALDOSERRANO8A35\aldo" issuerKeyHash="da46d251b4cad848bac99a9b943aaa05c56f4fe6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>WTjMaGROkPsSjgBwQTNnhsBx1O6u1+HleOQrm2FGY3g=</DigestValue></Reference></SignedInfo><SignatureValue>Q7b3pGTiFdo3YjEdzN6wOsjqywV0nXG4YxEWcqGx9GUHl+X8f2pF3PMQp/rTq1EvagYIMO+nMqq0b0Ashmr0LABWoI1ypQe/z0P5wz2os7F6mzpPqGfr8OBltqjz8yVOAIsH3ihmOun/5KzDqklDSYlMNhX4YHkRQsgpASalxxE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>oWa2xJORAE0Bzoy5BmVyIbZyNVOnTZRim3hV9VZUfxxvhokrrJ9LLrkMwSwpgGXXWKWN22hxkO4Ffv89tSjZtVhGvUx5RbX+twDTmTD+DXZxBYPjuyWLuqTNq4unZXwkO/IY0sJId6sTZ1V6LjvizJiz2zA40hbUbWC8qF9mT20=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="786346619b2be478e5e1d7aeeed471c08667334170008e12fb904e6468cc3859" Description="" Url=""><as:assemblyIdentity name="Scroll.exe" version="1.0.0.0" publicKeyToken="db40e8b766cddb4d" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ALDOSERRANO8A35\aldo</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Qlp+fXSSVsS3q/+FrV7DvuzY8t8SIwFqAnMj8QJQHbg=</DigestValue></Reference></SignedInfo><SignatureValue>WGRsmTGnSCkBqnXlj5/bU4D9kGKYnOgeh5sL/5en3NLsttVLxXojpp2kTZQ9ddxUDEvq/XxgpetN9isMmlhjfekMVbxdRK9G4CfDdLTVo/kfNQf+9XFd8rNryKJSqoFm7Q+5BcgWOO64w9GwxGehvYeuEYgpTgAuGxvWr+HTkd8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oWa2xJORAE0Bzoy5BmVyIbZyNVOnTZRim3hV9VZUfxxvhokrrJ9LLrkMwSwpgGXXWKWN22hxkO4Ffv89tSjZtVhGvUx5RbX+twDTmTD+DXZxBYPjuyWLuqTNq4unZXwkO/IY0sJId6sTZ1V6LjvizJiz2zA40hbUbWC8qF9mT20=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQK25em6mFyoZDrUg0gE4qEjANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigAQQBMAEQATwBTAEUAUgBSAEEATgBPADgAQQAzADUAXABhAGwAZABvMB4XDTI0MDQxOTE5MTkwMVoXDTI1MDQyMDAxMTkwMVowMzExMC8GA1UEAx4oAEEATABEAE8AUwBFAFIAUgBBAE4ATwA4AEEAMwA1AFwAYQBsAGQAbzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoWa2xJORAE0Bzoy5BmVyIbZyNVOnTZRim3hV9VZUfxxvhokrrJ9LLrkMwSwpgGXXWKWN22hxkO4Ffv89tSjZtVhGvUx5RbX+twDTmTD+DXZxBYPjuyWLuqTNq4unZXwkO/IY0sJId6sTZ1V6LjvizJiz2zA40hbUbWC8qF9mT20CAwEAATANBgkqhkiG9w0BAQsFAAOBgQASP0JPVTjS/9oMKhUCIRx4fDEua02jfJEYVLB4X2qKm9/1zTKtAz8iQXYwl/nwoF8ry9WcbHwWH5Di9bFcW/gR8hWv0ztv/IK2fBz7c/r3IVnFQ7c1RavDwPldbXe48hbrWtwwG+gFgQZ/4w0IqbbZVYEvSyvXcNvX983NQI4b8Q==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

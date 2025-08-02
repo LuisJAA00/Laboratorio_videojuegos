@@ -1,0 +1,51 @@
+C:\Users\user\Desktop\livEfectos\warships xd\PLAYGROUND\bin\Debug\PLAYGROUND.exe.config
+C:\Users\user\Desktop\livEfectos\warships xd\PLAYGROUND\bin\Debug\PLAYGROUND.exe
+C:\Users\user\Desktop\livEfectos\warships xd\PLAYGROUND\bin\Debug\PLAYGROUND.pdb
+C:\Users\user\Desktop\livEfectos\warships xd\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\livEfectos\warships xd\PLAYGROUND\obj\x86\Debug\PLAYGROUND.MyForm.resources
+C:\Users\user\Desktop\livEfectos\warships xd\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Properties.Resources.resources
+C:\Users\user\Desktop\livEfectos\warships xd\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.GenerateResource.cache
+C:\Users\user\Desktop\livEfectos\warships xd\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\livEfectos\warships xd\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe
+C:\Users\user\Desktop\livEfectos\warships xd\PLAYGROUND\obj\x86\Debug\PLAYGROUND.pdb
+\\Mac\Home\Downloads\Nuevo WinRAR ZIP archive\PLAYGROUND\bin\Debug\PLAYGROUND.exe.config
+\\Mac\Home\Downloads\Nuevo WinRAR ZIP archive\PLAYGROUND\bin\Debug\PLAYGROUND.exe
+\\Mac\Home\Downloads\Nuevo WinRAR ZIP archive\PLAYGROUND\bin\Debug\PLAYGROUND.pdb
+\\Mac\Home\Downloads\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.MyForm.resources
+\\Mac\Home\Downloads\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Properties.Resources.resources
+\\Mac\Home\Downloads\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe
+\\Mac\Home\Downloads\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.pdb
+\\Mac\Home\Downloads\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Resource1.resources
+C:\Users\pedro\Downloads\Nuevo WinRAR ZIP archive (1)\Nuevo WinRAR ZIP archive\PLAYGROUND\bin\Debug\PLAYGROUND.exe.config
+C:\Users\pedro\Downloads\Nuevo WinRAR ZIP archive (1)\Nuevo WinRAR ZIP archive\PLAYGROUND\bin\Debug\PLAYGROUND.exe
+C:\Users\pedro\Downloads\Nuevo WinRAR ZIP archive (1)\Nuevo WinRAR ZIP archive\PLAYGROUND\bin\Debug\PLAYGROUND.pdb
+C:\Users\pedro\Downloads\Nuevo WinRAR ZIP archive (1)\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.AssemblyReference.cache
+C:\Users\pedro\Downloads\Nuevo WinRAR ZIP archive (1)\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.MyForm.resources
+C:\Users\pedro\Downloads\Nuevo WinRAR ZIP archive (1)\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Properties.Resources.resources
+C:\Users\pedro\Downloads\Nuevo WinRAR ZIP archive (1)\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Resource1.resources
+C:\Users\pedro\Downloads\Nuevo WinRAR ZIP archive (1)\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.GenerateResource.cache
+C:\Users\pedro\Downloads\Nuevo WinRAR ZIP archive (1)\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\Nuevo WinRAR ZIP archive (1)\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe
+C:\Users\pedro\Downloads\Nuevo WinRAR ZIP archive (1)\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.pdb
+C:\Users\pedro\Downloads\Nuevo WinRAR ZIP archive (1)\Nuevo WinRAR ZIP archive\PLAYGROUND\bin\Debug\PLAYGROUND.exe.manifest
+C:\Users\pedro\Downloads\Nuevo WinRAR ZIP archive (1)\Nuevo WinRAR ZIP archive\PLAYGROUND\bin\Debug\PLAYGROUND.application
+C:\Users\pedro\Downloads\Nuevo WinRAR ZIP archive (1)\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe.manifest
+C:\Users\pedro\Downloads\Nuevo WinRAR ZIP archive (1)\Nuevo WinRAR ZIP archive\PLAYGROUND\obj\x86\Debug\PLAYGROUND.application
+V:\Parciales\Segundo Parcial\Videojuego Barcos\PLAYGROUND\bin\Debug\PLAYGROUND.exe.config
+V:\Parciales\Segundo Parcial\Videojuego Barcos\PLAYGROUND\bin\Debug\PLAYGROUND.exe.manifest
+V:\Parciales\Segundo Parcial\Videojuego Barcos\PLAYGROUND\bin\Debug\PLAYGROUND.application
+V:\Parciales\Segundo Parcial\Videojuego Barcos\PLAYGROUND\bin\Debug\PLAYGROUND.exe
+V:\Parciales\Segundo Parcial\Videojuego Barcos\PLAYGROUND\bin\Debug\PLAYGROUND.pdb
+V:\Parciales\Segundo Parcial\Videojuego Barcos\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.AssemblyReference.cache
+V:\Parciales\Segundo Parcial\Videojuego Barcos\PLAYGROUND\obj\x86\Debug\PLAYGROUND.MyForm.resources
+V:\Parciales\Segundo Parcial\Videojuego Barcos\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Properties.Resources.resources
+V:\Parciales\Segundo Parcial\Videojuego Barcos\PLAYGROUND\obj\x86\Debug\PLAYGROUND.Resource1.resources
+V:\Parciales\Segundo Parcial\Videojuego Barcos\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.GenerateResource.cache
+V:\Parciales\Segundo Parcial\Videojuego Barcos\PLAYGROUND\obj\x86\Debug\PLAYGROUND.csproj.CoreCompileInputs.cache
+V:\Parciales\Segundo Parcial\Videojuego Barcos\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe.manifest
+V:\Parciales\Segundo Parcial\Videojuego Barcos\PLAYGROUND\obj\x86\Debug\PLAYGROUND.application
+V:\Parciales\Segundo Parcial\Videojuego Barcos\PLAYGROUND\obj\x86\Debug\PLAYGROUND.exe
+V:\Parciales\Segundo Parcial\Videojuego Barcos\PLAYGROUND\obj\x86\Debug\PLAYGROUND.pdb

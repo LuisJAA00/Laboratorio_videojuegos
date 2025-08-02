@@ -1,0 +1,61 @@
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\bin\Debug\Scroll.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\bin\Debug\Scroll.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\obj\x86\Debug\Scroll.MAIN.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\obj\x86\Debug\Scroll.Properties.Resources.resources
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\obj\x86\Debug\Scroll.csproj.GenerateResource.Cache
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\obj\x86\Debug\Scroll.exe
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\obj\x86\Debug\Scroll.pdb
+E:\DOCS\CLASES\VIDEOJUEGOS\TILES\ScrollerZ\Scroll\obj\x86\Debug\Scroll.Resource1.resources
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\0011 TILES\TILES\ScrollerZ physics mario\Scroll\bin\Debug\Scroll.exe
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\0011 TILES\TILES\ScrollerZ physics mario\Scroll\bin\Debug\Scroll.pdb
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\0011 TILES\TILES\ScrollerZ physics mario\Scroll\obj\x86\Debug\Scroll.MAIN.resources
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\0011 TILES\TILES\ScrollerZ physics mario\Scroll\obj\x86\Debug\Scroll.Properties.Resources.resources
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\0011 TILES\TILES\ScrollerZ physics mario\Scroll\obj\x86\Debug\Scroll.Resource1.resources
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\0011 TILES\TILES\ScrollerZ physics mario\Scroll\obj\x86\Debug\Scroll.csproj.GenerateResource.Cache
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\0011 TILES\TILES\ScrollerZ physics mario\Scroll\obj\x86\Debug\Scroll.exe
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\0011 TILES\TILES\ScrollerZ physics mario\Scroll\obj\x86\Debug\Scroll.pdb
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\008 SPRITES\Scroll\obj\x86\Debug\Scroll.exe
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\008 SPRITES\Scroll\obj\x86\Debug\Scroll.pdb
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\008 SPRITES\Scroll\obj\x86\Debug\Scroll.MAIN.resources
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\008 SPRITES\Scroll\obj\x86\Debug\Scroll.Properties.Resources.resources
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\008 SPRITES\Scroll\obj\x86\Debug\Scroll.Resource1.resources
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\008 SPRITES\Scroll\obj\x86\Debug\Scroll.csproj.GenerateResource.Cache
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\008 SPRITES\Scroll\bin\Debug\Scroll.exe
+E:\DOCS\CLASES\LAB\VIDEOJUEGOS\008 SPRITES\Scroll\bin\Debug\Scroll.pdb
+C:\Users\user\Desktop\LabVidFin\bin\Debug\Scroll.exe
+C:\Users\user\Desktop\LabVidFin\bin\Debug\Scroll.exe.config
+C:\Users\user\Desktop\LabVidFin\obj\x86\Debug\Scroll.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\LabVidFin\obj\x86\Debug\Scroll.MAIN.resources
+C:\Users\user\Desktop\LabVidFin\obj\x86\Debug\Scroll.Properties.Resources.resources
+C:\Users\user\Desktop\LabVidFin\obj\x86\Debug\Scroll.Resource1.resources
+C:\Users\user\Desktop\LabVidFin\obj\x86\Debug\Scroll.csproj.GenerateResource.cache
+C:\Users\user\Desktop\LabVidFin\obj\x86\Debug\Scroll.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LabVidFin\obj\x86\Debug\Scroll.exe
+C:\Users\user\Desktop\LabVidFin\obj\x86\Debug\Scroll.pdb
+C:\Users\user\Desktop\LabVidFin\bin\Debug\Scroll.pdb
+C:\Users\user\Desktop\github\Graficacion_Videojuegos_LAB\JuegoFinal\bin\Debug\Scroll.exe.config
+C:\Users\user\Desktop\github\Graficacion_Videojuegos_LAB\JuegoFinal\bin\Debug\Scroll.exe
+C:\Users\user\Desktop\github\Graficacion_Videojuegos_LAB\JuegoFinal\bin\Debug\Scroll.pdb
+C:\Users\user\Desktop\github\Graficacion_Videojuegos_LAB\JuegoFinal\obj\x86\Debug\Scroll.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\github\Graficacion_Videojuegos_LAB\JuegoFinal\obj\x86\Debug\Scroll.MAIN.resources
+C:\Users\user\Desktop\github\Graficacion_Videojuegos_LAB\JuegoFinal\obj\x86\Debug\Scroll.Properties.Resources.resources
+C:\Users\user\Desktop\github\Graficacion_Videojuegos_LAB\JuegoFinal\obj\x86\Debug\Scroll.Resource1.resources
+C:\Users\user\Desktop\github\Graficacion_Videojuegos_LAB\JuegoFinal\obj\x86\Debug\Scroll.csproj.GenerateResource.cache
+C:\Users\user\Desktop\github\Graficacion_Videojuegos_LAB\JuegoFinal\obj\x86\Debug\Scroll.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\github\Graficacion_Videojuegos_LAB\JuegoFinal\obj\x86\Debug\Scroll.exe
+C:\Users\user\Desktop\github\Graficacion_Videojuegos_LAB\JuegoFinal\obj\x86\Debug\Scroll.pdb
+Z:\Ingenieria En Sistemas\6to Semestre\Laboratorio de Videojuegos\Parciales\Tercer Parcial\JuegoFinal\bin\Debug\Scroll.exe.config
+Z:\Ingenieria En Sistemas\6to Semestre\Laboratorio de Videojuegos\Parciales\Tercer Parcial\JuegoFinal\bin\Debug\Scroll.exe
+Z:\Ingenieria En Sistemas\6to Semestre\Laboratorio de Videojuegos\Parciales\Tercer Parcial\JuegoFinal\bin\Debug\Scroll.pdb
+Z:\Ingenieria En Sistemas\6to Semestre\Laboratorio de Videojuegos\Parciales\Tercer Parcial\JuegoFinal\obj\x86\Debug\Scroll.csproj.AssemblyReference.cache
+Z:\Ingenieria En Sistemas\6to Semestre\Laboratorio de Videojuegos\Parciales\Tercer Parcial\JuegoFinal\obj\x86\Debug\Scroll.MAIN.resources
+Z:\Ingenieria En Sistemas\6to Semestre\Laboratorio de Videojuegos\Parciales\Tercer Parcial\JuegoFinal\obj\x86\Debug\Scroll.Properties.Resources.resources
+Z:\Ingenieria En Sistemas\6to Semestre\Laboratorio de Videojuegos\Parciales\Tercer Parcial\JuegoFinal\obj\x86\Debug\Scroll.Resource1.resources
+Z:\Ingenieria En Sistemas\6to Semestre\Laboratorio de Videojuegos\Parciales\Tercer Parcial\JuegoFinal\obj\x86\Debug\Scroll.csproj.GenerateResource.cache
+Z:\Ingenieria En Sistemas\6to Semestre\Laboratorio de Videojuegos\Parciales\Tercer Parcial\JuegoFinal\obj\x86\Debug\Scroll.csproj.CoreCompileInputs.cache
+Z:\Ingenieria En Sistemas\6to Semestre\Laboratorio de Videojuegos\Parciales\Tercer Parcial\JuegoFinal\obj\x86\Debug\Scroll.exe
+Z:\Ingenieria En Sistemas\6to Semestre\Laboratorio de Videojuegos\Parciales\Tercer Parcial\JuegoFinal\obj\x86\Debug\Scroll.pdb
+Z:\Ingenieria En Sistemas\6to Semestre\Laboratorio de Videojuegos\Parciales\Tercer Parcial\JuegoFinal\bin\Debug\Scroll.exe.manifest
+Z:\Ingenieria En Sistemas\6to Semestre\Laboratorio de Videojuegos\Parciales\Tercer Parcial\JuegoFinal\bin\Debug\Scroll.application
+Z:\Ingenieria En Sistemas\6to Semestre\Laboratorio de Videojuegos\Parciales\Tercer Parcial\JuegoFinal\obj\x86\Debug\Scroll.exe.manifest
+Z:\Ingenieria En Sistemas\6to Semestre\Laboratorio de Videojuegos\Parciales\Tercer Parcial\JuegoFinal\obj\x86\Debug\Scroll.application

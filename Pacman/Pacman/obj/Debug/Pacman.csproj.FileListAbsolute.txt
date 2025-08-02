@@ -1,0 +1,26 @@
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Pacman\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Pacman\Pacman\obj\Debug\Pacman.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Pacman\Pacman\obj\Debug\Pacman.Form1.resources
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Pacman\Pacman\obj\Debug\Pacman.exe
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Pacman\Pacman\obj\Debug\Pacman.pdb
+\\Mac\Home\Downloads\Pacman\Pacman\bin\Debug\Pacman.exe.config
+\\Mac\Home\Downloads\Pacman\Pacman\bin\Debug\Pacman.exe
+\\Mac\Home\Downloads\Pacman\Pacman\bin\Debug\Pacman.pdb
+\\Mac\Home\Downloads\Pacman\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Pacman\Pacman\obj\Debug\Pacman.Form1.resources
+\\Mac\Home\Downloads\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+\\Mac\Home\Downloads\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Pacman\Pacman\obj\Debug\Pacman.exe
+\\Mac\Home\Downloads\Pacman\Pacman\obj\Debug\Pacman.pdb
+\\Mac\Home\Downloads\Pacman\Pacman\obj\Debug\Pacman.Resource1.resources
+\\Mac\Home\Downloads\Pacman\Pacman\bin\Debug\Pacman.exe.manifest
+\\Mac\Home\Downloads\Pacman\Pacman\bin\Debug\Pacman.application
+\\Mac\Home\Downloads\Pacman\Pacman\obj\Debug\Pacman.exe.manifest
+\\Mac\Home\Downloads\Pacman\Pacman\obj\Debug\Pacman.application
