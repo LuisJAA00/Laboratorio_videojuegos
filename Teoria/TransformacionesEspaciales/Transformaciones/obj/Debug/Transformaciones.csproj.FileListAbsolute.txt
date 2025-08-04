@@ -1,0 +1,33 @@
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Transformaciones\bin\Debug\Transformaciones.exe.config
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Transformaciones\bin\Debug\Transformaciones.exe
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Transformaciones\bin\Debug\Transformaciones.pdb
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Transformaciones\obj\Debug\Transformaciones.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Transformaciones\obj\Debug\Transformaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Transformaciones\obj\Debug\Transformaciones.Form1.resources
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Transformaciones\obj\Debug\Transformaciones.Properties.Resources.resources
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Transformaciones\obj\Debug\Transformaciones.csproj.GenerateResource.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Transformaciones\obj\Debug\Transformaciones.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Transformaciones\obj\Debug\Transformaciones.exe
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Transformaciones\obj\Debug\Transformaciones.pdb
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Nueva carpeta\Transformaciones\bin\Debug\Transformaciones.exe.config
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Nueva carpeta\Transformaciones\bin\Debug\Transformaciones.exe
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Nueva carpeta\Transformaciones\bin\Debug\Transformaciones.pdb
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Nueva carpeta\Transformaciones\obj\Debug\Transformaciones.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Nueva carpeta\Transformaciones\obj\Debug\Transformaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Nueva carpeta\Transformaciones\obj\Debug\Transformaciones.Form1.resources
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Nueva carpeta\Transformaciones\obj\Debug\Transformaciones.Properties.Resources.resources
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Nueva carpeta\Transformaciones\obj\Debug\Transformaciones.csproj.GenerateResource.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Nueva carpeta\Transformaciones\obj\Debug\Transformaciones.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Nueva carpeta\Transformaciones\obj\Debug\Transformaciones.exe
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\Transformaciones\Nueva carpeta\Transformaciones\obj\Debug\Transformaciones.pdb
+C:\Users\user\Desktop\github\2\Graficacion_Videojuegos\Transformaciones163247_\Transformaciones\bin\Debug\Transformaciones.exe.config
+C:\Users\user\Desktop\github\2\Graficacion_Videojuegos\Transformaciones163247_\Transformaciones\bin\Debug\Transformaciones.exe
+C:\Users\user\Desktop\github\2\Graficacion_Videojuegos\Transformaciones163247_\Transformaciones\bin\Debug\Transformaciones.pdb
+C:\Users\user\Desktop\github\2\Graficacion_Videojuegos\Transformaciones163247_\Transformaciones\obj\Debug\Transformaciones.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\github\2\Graficacion_Videojuegos\Transformaciones163247_\Transformaciones\obj\Debug\Transformaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\github\2\Graficacion_Videojuegos\Transformaciones163247_\Transformaciones\obj\Debug\Transformaciones.Form1.resources
+C:\Users\user\Desktop\github\2\Graficacion_Videojuegos\Transformaciones163247_\Transformaciones\obj\Debug\Transformaciones.Properties.Resources.resources
+C:\Users\user\Desktop\github\2\Graficacion_Videojuegos\Transformaciones163247_\Transformaciones\obj\Debug\Transformaciones.csproj.GenerateResource.cache
+C:\Users\user\Desktop\github\2\Graficacion_Videojuegos\Transformaciones163247_\Transformaciones\obj\Debug\Transformaciones.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\github\2\Graficacion_Videojuegos\Transformaciones163247_\Transformaciones\obj\Debug\Transformaciones.exe
+C:\Users\user\Desktop\github\2\Graficacion_Videojuegos\Transformaciones163247_\Transformaciones\obj\Debug\Transformaciones.pdb

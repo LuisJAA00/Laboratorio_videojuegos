@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\CanvasBased\CanvasBased\bin\Debug\CanvasBased.exe.config
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\CanvasBased\CanvasBased\bin\Debug\CanvasBased.exe
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\CanvasBased\CanvasBased\bin\Debug\CanvasBased.pdb
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\CanvasBased\CanvasBased\obj\Debug\CanvasBased.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\CanvasBased\CanvasBased\obj\Debug\CanvasBased.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\CanvasBased\CanvasBased\obj\Debug\CanvasBased.Form1.resources
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\CanvasBased\CanvasBased\obj\Debug\CanvasBased.Properties.Resources.resources
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\CanvasBased\CanvasBased\obj\Debug\CanvasBased.csproj.GenerateResource.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\CanvasBased\CanvasBased\obj\Debug\CanvasBased.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\CanvasBased\CanvasBased\obj\Debug\CanvasBased.exe
+C:\Users\user\Desktop\github\Graficacion y videojuegos\T1_Hola_mundo_Windows_forms\CanvasBased\CanvasBased\obj\Debug\CanvasBased.pdb

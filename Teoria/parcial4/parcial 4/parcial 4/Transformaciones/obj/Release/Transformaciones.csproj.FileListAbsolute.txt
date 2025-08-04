@@ -1,0 +1,11 @@
+C:\Users\Efrain\Downloads\parcial 4\parcial 4\Transformaciones\bin\Release\Transformaciones.exe.config
+C:\Users\Efrain\Downloads\parcial 4\parcial 4\Transformaciones\bin\Release\Transformaciones.exe
+C:\Users\Efrain\Downloads\parcial 4\parcial 4\Transformaciones\bin\Release\Transformaciones.pdb
+C:\Users\Efrain\Downloads\parcial 4\parcial 4\Transformaciones\obj\Release\Transformaciones.csproj.AssemblyReference.cache
+C:\Users\Efrain\Downloads\parcial 4\parcial 4\Transformaciones\obj\Release\Transformaciones.Form1.resources
+C:\Users\Efrain\Downloads\parcial 4\parcial 4\Transformaciones\obj\Release\Transformaciones.Form2.resources
+C:\Users\Efrain\Downloads\parcial 4\parcial 4\Transformaciones\obj\Release\Transformaciones.Properties.Resources.resources
+C:\Users\Efrain\Downloads\parcial 4\parcial 4\Transformaciones\obj\Release\Transformaciones.csproj.GenerateResource.cache
+C:\Users\Efrain\Downloads\parcial 4\parcial 4\Transformaciones\obj\Release\Transformaciones.csproj.CoreCompileInputs.cache
+C:\Users\Efrain\Downloads\parcial 4\parcial 4\Transformaciones\obj\Release\Transformaciones.exe
+C:\Users\Efrain\Downloads\parcial 4\parcial 4\Transformaciones\obj\Release\Transformaciones.pdb
